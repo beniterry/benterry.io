@@ -1,1 +1,1 @@
-# [benterry-portfolio.io](https://beniterry.github.io/benterry-portfolio.io/)
+# [benterry.io](https://beniterry.github.io/benterry.io/)
